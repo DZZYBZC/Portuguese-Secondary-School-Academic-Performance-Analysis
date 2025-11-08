@@ -1,5 +1,5 @@
 ---
-title: "STATS 15 Final Project - Portuguese Secondary School Academic Performance Report"
+title: "Portuguese Secondary School Academic Performance Report"
 author: "Cindy Li, Eleanore Zhu, Yinbo Zhang, Joseph Liu, Haoxiang Gao"
 date: "2025-05-31"
 output: pdf_document
